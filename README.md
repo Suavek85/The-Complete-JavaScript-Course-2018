@@ -19,3 +19,7 @@ The #1 bestselling JavaScript course on Udemy!
 • Asynchronous JavaScript: the event loop, promises, async/await, AJAX calls and APIs.
 
 • Modern JavaScript in 2018: Learn how to set up a modern development workflow with NPM, Webpack, Babel and ES6 modules.
+
+Some of the challenges:
+
+Pig Game DOM Challenge: https://htmlpreview.github.io/?https://github.com/Suavek85/The-Complete-JavaScript-Course-2018/blob/master/DOM%20Pig%20Game/index.html
